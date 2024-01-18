@@ -1,8 +1,9 @@
-<h1>About</h1>
+<h1>Overview</h1>
 This project aims to efficiently remove duplicate data copies using a combination of linked lists and hashing. 
 By utilizing these data structures, we ensure that only a single unique instance of data remains on a storage device. 
 The process involves guaranteeing that the single instance is indeed the only file by thoroughly checking for duplications. 
 The primary goal is to minimize the use of resources employed in storing and managing data, optimizing storage efficiency.
+{go To about.txt for more info}
 
 <h1>Features</h1>
 
