@@ -1,11 +1,7 @@
 The code aims to :
-
-1.Read data from two files (data1.txt and data2.txt) using the read_data function from readfile.py.
-
+1. Read data from two files (data1.txt and data2.txt) using the read_data function from readfile.py.
 2. Combine the data from both files into a single list called combined_data.
-
 3. Use a custom hash implementation to remove duplicates from combined_data.
-
 4. Print the data after removing duplicates.
 
 The functionality provided by each file:
