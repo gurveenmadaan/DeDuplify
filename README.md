@@ -5,7 +5,7 @@ The process involves guaranteeing that the single instance is indeed the only fi
 The primary goal is to minimize the use of resources employed in storing and managing data, optimizing storage efficiency.
 
 
-<h6>{go To about.txt for more info}</h6>
+<h6>{go to about.txt for more info}</h6>
 
 <h1>Features</h1>
 
