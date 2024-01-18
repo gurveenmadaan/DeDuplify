@@ -1,40 +1,37 @@
-<h1>Overview</h1>
-This project aims to efficiently remove duplicate data copies using a combination of linked lists and hashing. 
-By utilizing these data structures, we ensure that only a single unique instance of data remains on a storage device. 
-The process involves guaranteeing that the single instance is indeed the only file by thoroughly checking for duplications. 
-The primary goal is to minimize the use of resources employed in storing and managing data, optimizing storage efficiency.
+# DeDuplify
 
+## Overview
+DeDuplify is a Python-based project that utilizes linked lists and hashing to efficiently remove duplicate data copies from a storage device. The combination of linked lists and hashing ensures that only one unique instance of data remains, providing a reliable solution for data deduplication. This project focuses on guaranteeing that the single instance is indeed the only file, using hash-based checks to eliminate duplication. Additionally, DeDuplify aims to minimize the use of resources involved in storing and managing data.
 
 <h6>{go to about.txt for more info}</h6>
 
-<h1>Features</h1>
+## Features
+### 1. Data Deduplication
+DeDuplify specializes in removing duplicate data copies, ensuring that only a single instance of each unique data set is retained. This contributes to efficient storage and management of data.
 
-1. Duplicate Removal:
-DeDuplify employs a linked list and hashing mechanism to identify and remove duplicate instances of data. This ensures that only one unique copy of the data is retained, minimizing redundancy.
+### 2. Linked List and Hashing
+The project leverages linked lists and hashing to achieve optimal performance in identifying and eliminating duplicate data. Linked lists provide a dynamic and efficient structure, while hashing enables quick data lookups for duplication checks.
 
-2. Data Integrity Verification :
-To guarantee that the single remaining instance is truly the only file, DEDUPLIFY performs a thorough check for duplication. This verification step ensures data integrity and reliability.
+### 3. Data Integrity Verification
+DeDuplify employs hashing to verify the integrity of the single data instance, ensuring that it is the authentic and unaltered version of the file. This adds an extra layer of confidence in the deduplication process.
 
-3. Resource Optimization :
-The project is designed with a focus on minimizing the use of resources for storing and managing data. This optimization contributes to efficient utilization of storage devices and overall system resources.
+### 4. Resource Optimization
+The project is designed to minimize the use of resources involved in storing and managing data. This includes efficient memory usage and streamlined data structures to enhance overall performance.
 
+## Prerequisites
+Before using DeDuplify, make sure you have the following installed:
+- Python (version 3.x)
+- Any additional dependencies as required
 
-<h1>Prerequisites</h1>
+## Installation
+1. Clone the repository: `git clone https://github.com/your-username/deduplify.git`
+2. Navigate to the project directory: `cd deduplify`
+3. Run the application: `python deduplify.py`
 
-Before using DEDUPLIFY, make sure you have the following installed:
-Python (version 3.6 or higher)
-
-<h1>Installation</h1>
-
-Clone the repository: git clone https://github.com/your-username/deduplify.git
-
-Navigate to the project directory: cd deduplify
-
-Run the application: python deduplify.py
-
-<h1>Usage</h1>
-
+## Usage
 - Launch the application using the provided command.
 - Follow the on-screen prompts to provide input and configure the deduplication process.
 - Sit back and let DEDUPLIFY work its magic! 
 - The application will perform duplicate removal and data integrity verification.
+
+Sit back and let DeDuplify streamline your data storage by efficiently removing duplicate instances while ensuring data integrity.
