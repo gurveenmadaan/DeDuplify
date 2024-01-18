@@ -1,8 +1,8 @@
 <h1>About</h1>
-This project aims to efficiently remove duplicate data copies using a combination of linked lists and hashing. 
-By utilizing these data structures, we ensure that only a single unique instance of data remains on a storage device. 
-The process involves guaranteeing that the single instance is indeed the only file by thoroughly checking for duplications. 
-The primary goal is to minimize the use of resources employed in storing and managing data, optimizing storage efficiency.
+-This project aims to efficiently remove duplicate data copies using a combination of linked lists and hashing. 
+-By utilizing these data structures, we ensure that only a single unique instance of data remains on a storage device. 
+-The process involves guaranteeing that the single instance is indeed the only file by thoroughly checking for duplications. 
+-The primary goal is to minimize the use of resources employed in storing and managing data, optimizing storage efficiency.
 
 <h1>Features</h1>
 
@@ -31,6 +31,7 @@ Run the application: python deduplify.py
 
 <h1>Usage</h1>
 
-Launch the application using the provided command.
-Follow the on-screen prompts to provide input and configure the deduplication process.
-Sit back and let DEDUPLIFY work its magic! The application will perform duplicate removal and data integrity verification.
+-Launch the application using the provided command.
+-Follow the on-screen prompts to provide input and configure the deduplication process.
+-Sit back and let DEDUPLIFY work its magic! 
+-The application will perform duplicate removal and data integrity verification.
