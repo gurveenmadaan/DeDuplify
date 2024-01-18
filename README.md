@@ -19,7 +19,7 @@ Before using DEDUPLIFY, make sure you have the following installed:
 Python (version 3.6 or higher)
 
 <h1>Installation</h1>
-Clone the repository
+Clone the repository:
 git clone https://github.com/your-username/deduplify.git
 
 Navigate to the project directory:
