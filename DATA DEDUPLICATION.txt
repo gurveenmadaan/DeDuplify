@@ -1,0 +1,18 @@
+The code aims to :
+
+1.Read data from two files (data1.txt and data2.txt) using the read_data function from readfile.py.
+
+2. Combine the data from both files into a single list called combined_data.
+
+3. Use a custom hash implementation to remove duplicates from combined_data.
+
+4. Print the data after removing duplicates.
+
+The functionality provided by each file:
+main.py: imports necessary functions from other files, reads data from files, combines data, removes duplicates using the hash set implementation, and prints the final deduplicated data.
+
+linkedlist.py: defines a simple linked list data structure with Node and LinkedList classes. used within the hash set implementation to store values that hash to the same bucket.
+
+hash.py: implements a custom hash set called using an array of linked lists. provides methods for adding values to the hash set and removing duplicates from linked lists.
+
+readfile.py: contains a function read_data that reads data from a given file and returns it as a list of strings.

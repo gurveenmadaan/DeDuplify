@@ -1,0 +1,7 @@
+Welcome to the second text file.
+Here, you'll find a different set of text.
+String data in file 2 is distinct from file 1.
+You can customize this content according to your requirements.
+
+Duplicate data:
+String data in file 1 is different from file 2.

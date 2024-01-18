@@ -1,0 +1,7 @@
+This is the content of the first text file.
+It contains various lines of text.
+String data in file 1 is different from file 2.
+Feel free to modify this content as needed.
+
+Duplicate data:
+String data in file 1 is different from file 2.
