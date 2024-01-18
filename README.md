@@ -1,9 +1,11 @@
+<h1>About</h1>
 This project aims to efficiently remove duplicate data copies using a combination of linked lists and hashing. 
 By utilizing these data structures, we ensure that only a single unique instance of data remains on a storage device. 
 The process involves guaranteeing that the single instance is indeed the only file by thoroughly checking for duplications. 
 The primary goal is to minimize the use of resources employed in storing and managing data, optimizing storage efficiency.
 
 <h1>Features</h1>
+
 1. Duplicate Removal
 DEDUPLIFY employs a linked list and hashing mechanism to identify and remove duplicate instances of data. This ensures that only one unique copy of the data is retained, minimizing redundancy.
 
@@ -15,20 +17,20 @@ The project is designed with a focus on minimizing the use of resources for stor
 
 
 <h1>Prerequisites</h1>
+
 Before using DEDUPLIFY, make sure you have the following installed:
 Python (version 3.6 or higher)
 
 <h1>Installation</h1>
-Clone the repository:
-git clone https://github.com/your-username/deduplify.git
 
-Navigate to the project directory:
-cd deduplify
+Clone the repository: git clone https://github.com/your-username/deduplify.git
 
-Run the application:
-python deduplify.py
+Navigate to the project directory: cd deduplify
+
+Run the application: python deduplify.py
 
 <h1>Usage</h1>
+
 Launch the application using the provided command.
 Follow the on-screen prompts to provide input and configure the deduplication process.
 Sit back and let DEDUPLIFY work its magic! The application will perform duplicate removal and data integrity verification.
