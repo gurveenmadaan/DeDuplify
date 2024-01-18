@@ -9,13 +9,13 @@ The primary goal is to minimize the use of resources employed in storing and man
 
 <h1>Features</h1>
 
-1. Duplicate Removal
-DEDUPLIFY employs a linked list and hashing mechanism to identify and remove duplicate instances of data. This ensures that only one unique copy of the data is retained, minimizing redundancy.
+1. Duplicate Removal:
+DeDuplify employs a linked list and hashing mechanism to identify and remove duplicate instances of data. This ensures that only one unique copy of the data is retained, minimizing redundancy.
 
-2. Data Integrity Verification
+2. Data Integrity Verification :
 To guarantee that the single remaining instance is truly the only file, DEDUPLIFY performs a thorough check for duplication. This verification step ensures data integrity and reliability.
 
-3. Resource Optimization
+3. Resource Optimization :
 The project is designed with a focus on minimizing the use of resources for storing and managing data. This optimization contributes to efficient utilization of storage devices and overall system resources.
 
 
